@@ -17,6 +17,10 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 
-	With the help of the diagrams we can get to know the reachibility of the commits and branches.	
+	With the help of the diagrams we can get to know the reachibility of the commits and branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	
+	merging integrates other branches into the master branch.	
 
 	
